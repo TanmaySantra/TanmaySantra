@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi I am Tanmay , Welcome to my profile:
 🎓 Currently pursuing my B.Tech in Computer Science & Engineering (AIML) at UEM Kolkata.  <br>🚀 Passionate about Full-Stack Web Development, working extensively with the MERN stack and NestJS.  <br>🧠 Exploring Artificial Intelligence, Computer Vision, and Quantum Computing.  <br>📱 Built projects like SecurePass (Password Manager), MetaFit (Yoga Posture Detection), and Numero (Gesture Calculator).  <br>🎨 Love turning ideas into interactive and visually compelling web apps.  <br>📦 Believer in Open Source — actively contributing and learning from the community.<br>
 
 
